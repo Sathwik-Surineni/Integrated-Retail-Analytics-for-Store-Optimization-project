@@ -13,7 +13,7 @@ import math  # noqa: F401
 
 # Optional imports (safe: only used if files exist)
 try:
-    import networkx as nx
+    import networkx as nx 
     NX_AVAILABLE = True
 except Exception:
     NX_AVAILABLE = False
