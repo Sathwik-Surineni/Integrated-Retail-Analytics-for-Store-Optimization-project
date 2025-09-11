@@ -7,17 +7,3 @@ __pycache__/
 .venv/
 env/
 venv/
-
-# Data / models (do NOT push heavy files)
-data/
-models/
-*.parquet
-*.pkl
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS and editor
-.DS_Store
-Thumbs.db
-.vscode/
