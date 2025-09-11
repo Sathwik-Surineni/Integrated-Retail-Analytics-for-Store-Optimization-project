@@ -10,7 +10,7 @@ venv/
 
 # Data / models (do NOT push heavy files)
 data/
-models/
+
 *.parquet
 *.pkl
 
